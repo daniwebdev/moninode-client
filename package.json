@@ -1,0 +1,23 @@
+{
+  "name": "moninode-client",
+  "version": "1.0.0",
+  "description": "Linux Server Monitoring",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniwebdev/moninode-client.git"
+  },
+  "keywords": [
+    "Monitoring",
+    "Server"
+  ],
+  "author": "Muhamad Yusup Hamdani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniwebdev/moninode-client/issues"
+  },
+  "homepage": "https://github.com/daniwebdev/moninode-client#readme"
+}
